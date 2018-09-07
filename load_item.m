@@ -1,4 +1,4 @@
-p=dir('C:\Users\Shahriar\Documents\EEGProject\*.csv'); 
+p=dir('C:\Users\cse\Documents\EEGAnalysis-master\EEGAnalysis-master\*.csv'); 
 num=cell(size(p));
 n=length(p);
 for i=1:n
